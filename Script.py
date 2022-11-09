@@ -43,10 +43,10 @@ This methord works on any chat, Just type @teamidiotsfilter_bot and then leave a
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
-- Source - https://github.com/Kingmaker003/EvaMaria  
+- Source - https://github.com/TamilTamil2019/EvaMaria-1  
 
 <b>DEVS:</b>
-- <a href=https://t.me/Rcmovieslinks>ᴀᴍ_ᴛᴇᴄʜ</a>"""
+- <a href=https://t.me/Team_idiots>ᴀᴍ_ᴛᴇᴄʜ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -71,7 +71,7 @@ This methord works on any chat, Just type @teamidiotsfilter_bot and then leave a
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Rcmovieslinks)</code>
+<code>[Button Text](buttonurl:https://t.me/Team_idiots)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
