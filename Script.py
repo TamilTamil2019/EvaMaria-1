@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """Vanakkam Da Mapala{} 💖
+    START_TXT = """Vaanga Nanba/Nanbi {} 💖
 I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
 
 Its Easy To Use Me; Just Add Me To Your Group As Admin, 
@@ -7,16 +7,16 @@ Thats All, i will Provide Movies There...😍
 
 ⚠️More Help Check Help Button Below
 
-😎 Powered by @Rcmovieslinks
+😎 Powered by @Team_idiots
 
-©️ Maintained By @I_am_Professor_7"""
+©️ Maintained By @Tamil2018"""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
 
 ○  it's Note Complicated...🤓
 
 ○  Search using inline mode
-This methord works on any chat, Just type @Shinchan_movie_bot and then leave a space and search any movie you want...
+This methord works on any chat, Just type @teamidiotsfilter_bot and then leave a space and search any movie you want...
 
 ○ Available Commands
      
@@ -31,11 +31,11 @@ This methord works on any chat, Just type @Shinchan_movie_bot and then leave a s
 
 ○Dont Spam Me...🤒
 
-😎 Powered by @Rcmovieslinks
+😎 Powered by @Team_idiots
 
-©️ Maintained By @I_am_Professor_7"""
+©️ Maintained By @Tamil2018"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Rcmovieslinks>ᴀᴍ_ᴛᴇᴄʜ</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Team_idiots>ᴀᴍ_ᴛᴇᴄʜ</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
